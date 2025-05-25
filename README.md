@@ -51,7 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-index.html
+### index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -118,7 +118,7 @@ index.html
 </body>
 </html>
 ```
-products.html
+### products.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -242,7 +242,7 @@ products.html
 </body>
 </html>
 ```
-about.html
+### about.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -283,7 +283,7 @@ about.html
 </body>
 </html>
 ```
-contact.html
+### contact.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -330,7 +330,7 @@ contact.html
 </html>
 
 ```
-account.html
+### account.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -382,7 +382,7 @@ account.html
 </body>
 </html>
 ```
-style.css
+### style.css
 ```
 /* ───────────  Global reset & base  ─────────── */
 *,
